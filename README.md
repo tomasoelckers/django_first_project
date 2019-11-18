@@ -1,6 +1,6 @@
 # Django_First_Projecti
 
-##  Important package:
+###  Important package:
 	- Python 3.*
 	- Virtualenv
 	- Django 2.*
